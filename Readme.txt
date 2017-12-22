@@ -1,1 +1,2 @@
-Shh.. i never was here first.. + cat Readme.txt
+This is my first comment about this project
+And that's the second..
